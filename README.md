@@ -1,2 +1,2 @@
 # rubi
-Learning Ruby
+Learning [Ruby](https://en.wikibooks.org/wiki/Ruby_Programming)
